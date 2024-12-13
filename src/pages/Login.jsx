@@ -87,10 +87,10 @@ export default function Login() {
 
       <Typography variant="body2" color="secondary" align="center">
         Copyright ©{/* Take it back to serendipity.com */}
+        {new Date().getFullYear()}
         <Link color="inherit" href="https://www.serendipity.com/">
-          Serendipity
+        &nbsp; Serendipity
         </Link>
-        {new Date().getFullYear()}.
       </Typography>
     </Container>
   );
