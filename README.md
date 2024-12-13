@@ -1,8 +1,16 @@
-# React + Vite
+## **News App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### *Project Description:*
+News App is a React Redux project with Redux Toolkit and it was created using Vite. To style the project it was used material UI.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### *Getting started:* 
+  - First install all the dependencies:
+  ```
+  npm install
+  ```
+  - Then to run it locally:
+  ```
+  npm run dev
+  ```
+  - In case that you want to see a live demo, you can find it available in this link:  
+    [News App](https://news-app-sooty-sigma.vercel.app)
